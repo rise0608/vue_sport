@@ -1,5 +1,6 @@
 <template>
     <div class="login_container">
+        test
         <!-- 登录块 -->
         <div class="login_box">
             <!-- 头像 -->
