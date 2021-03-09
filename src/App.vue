@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    App 根结点
+    <router-view></router-view>
   </div>
 </template>
 
