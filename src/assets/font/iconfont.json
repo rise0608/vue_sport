@@ -1,0 +1,23 @@
+{
+  "id": "2411251",
+  "name": "VueProject",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1111451",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "7090030",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    }
+  ]
+}
